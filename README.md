@@ -8,6 +8,6 @@ We do not store, transmit, or access any personal information, usage data, or de
 
 We do not use third-party analytics, advertising, or tracking tools.
 
-If you have any questions about this privacy policy, please contact us at [your support email address].
+If you have any questions about this privacy policy, please contact us at mrhanson@protonmail.com.
 
 Last updated: 6-18-25
